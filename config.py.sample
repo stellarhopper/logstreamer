@@ -1,0 +1,6 @@
+#Passwords
+rconPassword = "awesome_rcon_pass"
+
+#self
+my_host = 'xx.xx.xx.xx'
+my_port = 'yyyyy'
